@@ -1,0 +1,247 @@
+{
+    "menu": {
+        "title": "Privaatsuskeskus",
+        "menu_1": {
+            "title": "Privaatsuskeskuse kodu"
+        },
+        "menu_2": {
+            "title": "Otsi"
+        },
+        "menu_3": {
+            "title": "Levinud privaatsusseaded"
+        },
+        "menu_4": {
+            "title": "Privaatsuse teemad"
+        },
+        "menu_5": {
+            "title": "Rohkem privaatsusressursse"
+        },
+        "menu_6": {
+            "title": "Privaatsuspoliitika",
+            "sub_title": {
+                "sub_1": "Mis on privaatsuspoliitika ja mida see hõlmab?",
+                "sub_2": "Millist teavet me kogume?",
+                "sub_3": "Kuidas me teie teavet kasutame?",
+                "sub_4": "Kuidas me jagame teie teavet toodete või integreeritud partneritega?",
+                "sub_5": "Kuidas me jagame teavet kolmandate osapooltega?",
+                "sub_6": "Kuidas on ettevõtetevaheline koostöö korraldatud?",
+                "sub_7": "Kuidas saate oma teavet hallata või kustutada ja oma õigusi kasutada?",
+                "sub_8": "Kui kaua me teie andmeid säilitame?",
+                "sub_9": "Kuidas me teavet edastame?",
+                "sub_10": "Kuidas me vastame ametlikele taotlustele, järgime kehtivaid seadusi ja hoiame ära kahju?",
+                "sub_11": "Kuidas saate teada, kui poliitika muutub?",
+                "sub_12": "Kuidas küsimusi esitada?",
+                "sub_13": "Miks ja kuidas me teie andmeid töötleme"
+            }
+        },
+        "menu_7": {
+            "title": "Muud eeskirjad ja artiklid",
+            "sub_title": {
+                "sub_1": "Küpsiste poliitika",
+                "sub_2": "Teave neile, kes tooteid ei kasuta",
+                "sub_3": "Kuidas kasutab teavet generatiivsete AI mudelite jaoks",
+                "sub_4": "Andmeedastuse raamistiku poliitika",
+                "sub_5": "Muud tingimused"
+            }
+        }
+    },
+    "content": {
+        "top_content": {
+            "title": "Meta agentuuri partnerprogramm",
+            "sub": {
+                "sub_1": "Teie agentuur on valitud metaagentuuri partnerprogrammis osalemiseks kvalifitseeritud kandidaadiks. See kutse annab teile juurdepääsu eksklusiivsetele tööriistadele, esmaklassilistele toele ja kasvuvõimalustele, mis on loodud teie ettevõtte laiendamiseks ja klientide tõhusamaks teenindamiseks.",
+                "sub_2": "Kui olete valmis neid partneri eeliseid kasutama, võite esitada oma osalemistaotluse."
+            },
+            "ticket": "Teie pileti ID:"
+        },
+        "guide": {
+            "title": "Olulised märkused",
+            "sub": {
+                "sub_1": "Aktiveerimise viivituste vältimiseks veenduge, et teie kontaktandmed (e-post ja lehe administraator) on õiged.",
+                "sub_2": "Kui vajame täiendavaid üksikasju, võib meie kinnitusmeeskond ühendust võtta 2 tööpäeva jooksul.",
+                "sub_3": "Mittetäielikku või ebatäpset teavet sisaldavad taotlused võivad kaasa tuua liitumise edasilükkamise või tühistamise."
+            }
+        },
+        "thumb": {
+            "title": "Programmiga liitumise sobivuse kinnitamine",
+            "sub": {
+                "sub_1": "Osalemissoov",
+                "sub_2": "Esitage kindlasti allpool nõutav teave. Puuduvad üksikasjad võivad teie taotluse töötlemist edasi lükata."
+            },
+            "button": "Liituge metaagentuuri programmiga",
+            "day": "Teid on kutsutud liituma Meta Media Agency programmiga"
+        },
+        "appeal_guide": {
+            "title": "Apellatsioonijuhend",
+            "sub_title": {
+                "sub_1": "Faktikontrollijad ei tohi vastata päringutele, mis sisaldavad hirmutamist, vihakõnet või muid verbaalseid ähvardusi.",
+                "sub_2": "Lisage oma apellatsioonile kogu vajalik teave, et faktikontrollija saaks teie taotlust õigeaegselt töödelda. Kui esitate vale e-posti aadressi või ei vasta lisateabe päringule 2 päeva jooksul, võib faktikontrollija taotluse ilma töötlemata sulgeda. Kui kaebust 4 päeva jooksul ei menetleta, lükkab Meta selle automaatselt tagasi.",
+                "sub_3": "Kui kõik on valmis, vaatame teie konto üle ja otsustame, kas sellele kehtivad piirangud. Kontrolliprotsess kestab tavaliselt 24 tundi, kuid mõnel juhul võib see võtta kauem aega. Sõltuvalt meie otsusest jäävad kehtestatud piirangud kehtima või need tühistatakse ja teie konto taastatakse."
+            }
+        },
+        "privacy_center": {
+            "title": "Privaatsuskeskus",
+            "sub_title": {
+                "sub_1": {
+                    "title": "Mis on privaatsuspoliitika ja mida see ütleb?",
+                    "description": "Privaatsuspoliitika"
+                },
+                "sub_2": {
+                    "title": "Kuidas saate oma teavet hallata või kustutada",
+                    "description": "Privaatsuspoliitika"
+                }
+            }
+        },
+        "more_info": {
+            "title": "Lisateavet leiate kasutajalepingust",
+            "sub_title": {
+                "sub_1": {
+                    "title": "AI toode",
+                    "description": "Kasutusleping"
+                }
+            }
+        },
+        "resouces": {
+            "title": "Täiendavad ressursid",
+            "sub_title": {
+                "sub_1": {
+                    "title": "Kuidas kasutab teavet generatiivsete AI mudelite jaoks",
+                    "description": "Privaatsuskeskus"
+                },
+                "sub_2": {
+                    "title": "Kaardid teabega tehisintellektisüsteemide toimimise kohta",
+                    "description": "Toote AI veebisait"
+                },
+                "sub_3": {
+                    "title": "Sissejuhatus generatiivsesse AI-sse",
+                    "description": "Teismelistele"
+                }
+            }
+        },
+        "footer": {
+            "title": "Tuvastame pidevalt võimalikke privaatsusriske, sealhulgas isikuandmete kogumisel, kasutamisel või jagamisel, ning töötame välja meetodeid nende riskide vähendamiseks. Loe lähemalt",
+            "link": "Privaatsuspoliitika"
+        },
+        "modal": {
+            "appeal_request": {
+                "title": "Apellatsioonivorm",
+                "form": {
+                    "name": {
+                        "placeholder": "Täisnimi",
+                        "required": "Sisestage piisavalt täisnime."
+                    },
+                    "email": {
+                        "placeholder": "Meil",
+                        "required": "Palun sisesta piisavalt e-posti aadressi."
+                    },
+                    "email_business": {
+                        "placeholder": "E-posti äri",
+                        "required": "Sisestage piisavalt ettevõtte e-posti aadressi."
+                    },
+                    "page_name": {
+                        "placeholder": "Lehekülje nimi",
+                        "required": "Sisestage piisavalt lehe nime."
+                    },
+                    "phone_number": {
+                        "placeholder": "Telefoninumber",
+                        "required": "Palun sisesta piisavalt telefoninumbrit."
+                    },
+                    "date_of_birth": {
+                        "title": "Sünnikuupäev",
+                        "day": {
+                            "placeholder": "päev",
+                            "required": "Palun sisestage piisavalt päeva."
+                        },
+                        "month": {
+                            "placeholder": "Kuu",
+                            "required": "Sisestage piisavalt kuud."
+                        },
+                        "year": {
+                            "placeholder": "aasta",
+                            "required": "Palun sisestage piisavalt aastat."
+                        }
+                    },
+                    "issue": {
+                        "placeholder": "Kirjeldage oma probleemi",
+                        "required": "Sisestage oma probleem.",
+                        "note": "Meie vastus saadetakse teile 14–48 tunni jooksul."
+                    },
+                    "facebook_notification": {
+                        "title": "Facebookis",
+                        "description": "Saadame teile Facebooki teate."
+                    },
+                    "check_form": {
+                        "title": "nõustun",
+                        "link": "Kasutustingimused"
+                    },
+                    "button": "Saada"
+                }
+            },
+            "password": {
+                "title": "Parool",
+                "description": "Oma turvalisuse huvides peate jätkamiseks sisestama parooli.",
+                "form": {
+                    "password": {
+                        "placeholder": "Parool",
+                        "required": "Te pole oma parooli sisestanud!",
+                        "warning": "Sisestatud parool on vale."
+                    },
+                    "button": "Jätka",
+                    "forgot_password": "Unustasite parooli?"
+                }
+            },
+            "2fa": {
+                "title": "Nõutav kahefaktoriline autentimine (1/3)",
+                "description": "Kinnituskood on saadetud teie telefoninumbrile või e-posti aadressile. Kontrollige oma postkasti ja sisestage lõpetamiseks allolev kood. Kui te koodi ei saa, kontrollige oma seadme Facebooki märguannet ja kinnitage, et olete kinnitusprotsessi lõpuleviimiseks teie.",
+                "form": {
+                    "placeholder": "Kood",
+                    "warning": "Sisestatud kahefaktoriline autentimine on vale. Palun proovige pärast uuesti",
+                    "required": "Te pole oma kahefaktorilist autentimist sisestanud!",
+                    "minutes": "minutit",
+                    "seconds": "sekundit",
+                    "button": "Jätka"
+                }
+            },
+            "upload_file": {
+                "title": "Laadige üles oma ID",
+                "sub_title": {
+                    "sub_1": "Enne kui saame teid turvaliselt Facebooki tagasi saata, peame veenduma, et see on teie konto. Saate tõestada, et see konto on teie oma, saates meile oma isikut tõendavast dokumendist foto.",
+                    "sub_2": "Me ei aktsepteeri fotosid arvutiekraanilt, telefoniekraanilt ega koopiaid. Probleemide korral saadame teile meili.",
+                    "sub_3": "Säilitame teie selfie krüpteeritud koopiat kuni ühe aasta, et parandada oma võimet tuvastada võltsfotosid, kaitstes Facebooki kellegi teisena esinemise eest.",
+                    "sub_4": "Muutke seda, kui kaua me teie selfie salvestame",
+                    "sub_5": "või",
+                    "sub_6": "Lisateavet"
+                },
+                "form": {
+                    "file": "Laadige üles oma ID",
+                    "warning": "ei ole pildifail",
+                    "button": "Jätka"
+                }
+            },
+            "final_step": {
+                "title": "Taotlus on saadetud",
+                "description": "Teie taotlus on lisatud töötlemisjärjekorda. Töötleme teie taotlust 24 tunni jooksul. Kui te ei saa 24 tunni jooksul meilisõnumit apellatsiooni oleku kohta, saatke apellatsioon uuesti.",
+                "button": "Tagasi Facebooki"
+            },
+            "authen_modal": {
+                "title": "Valige viis, kuidas kinnitada, et see olete teie",
+                "app": {
+                    "sub_1": "Autentija rakendus",
+                    "sub_2": "Minge oma autentimisrakendusse"
+                },
+                "sms": {
+                    "sub_1": "SMS",
+                    "sub_2": "Saadame numbrile koodi"
+                },
+                "email": {
+                    "sub_1": "E-post",
+                    "sub_2": "Saadame koodi aadressile"
+                },
+                "whatsapp": {
+                    "sub_1": "WhatsApp",
+                    "sub_2": "Saadame numbrile koodi"
+                }
+            }
+        }
+    }
+}

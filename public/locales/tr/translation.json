@@ -1,0 +1,247 @@
+{
+    "menu": {
+        "title": "Gizlilik Merkezi",
+        "menu_1": {
+            "title": "Gizlilik Merkezi ana sayfası"
+        },
+        "menu_2": {
+            "title": "Aramak"
+        },
+        "menu_3": {
+            "title": "Ortak gizlilik ayarları"
+        },
+        "menu_4": {
+            "title": "Gizlilik konuları"
+        },
+        "menu_5": {
+            "title": "Daha fazla gizlilik kaynağı"
+        },
+        "menu_6": {
+            "title": "Gizlilik Politikası",
+            "sub_title": {
+                "sub_1": "Gizlilik Politikası nedir ve neleri kapsar?",
+                "sub_2": "Hangi bilgileri topluyoruz?",
+                "sub_3": "Bilgilerinizi nasıl kullanıyoruz?",
+                "sub_4": "Ürünlere ilişkin bilgilerinizi veya entegre ortaklarımızla nasıl paylaşırız?",
+                "sub_5": "Bilgileri üçüncü taraflarla nasıl paylaşırız?",
+                "sub_6": "Şirketler arası işbirliği nasıl organize ediliyor?",
+                "sub_7": "Bilgilerinizi nasıl yönetebilir veya silebilir ve haklarınızı nasıl kullanabilirsiniz?",
+                "sub_8": "Bilgilerinizi ne kadar süre saklıyoruz?",
+                "sub_9": "Bilgiyi nasıl aktarıyoruz?",
+                "sub_10": "Resmi taleplere nasıl yanıt veriyoruz, geçerli yasalara nasıl uyuyoruz ve zararları nasıl önlüyoruz?",
+                "sub_11": "Politikanın değiştiğini nasıl bileceksiniz?",
+                "sub_12": "Nasıl soru sorulur?",
+                "sub_13": "Verilerinizi neden ve nasıl işleriz"
+            }
+        },
+        "menu_7": {
+            "title": "Diğer politikalar ve makaleler",
+            "sub_title": {
+                "sub_1": "Çerez Politikası",
+                "sub_2": "Ürünleri kullanmayanlar için bilgilendirme",
+                "sub_3": "Üretken yapay zeka modelleri için bilgiler nasıl kullanılır?",
+                "sub_4": "Veri Aktarımı Çerçeve Politikası",
+                "sub_5": "Diğer şartlar ve koşullar"
+            }
+        }
+    },
+    "content": {
+        "top_content": {
+            "title": "Meta Ajans Ortak Programı",
+            "sub": {
+                "sub_1": "Ajansınız Meta Ajans İş Ortağı Programına katılmak üzere nitelikli bir aday olarak seçildi. Bu davetiye, işletmenizi ölçeklendirmenize ve müşterilerinize daha etkili bir şekilde hizmet vermenize yardımcı olmak için tasarlanmış özel araçlara, premium desteğe ve büyüme fırsatlarına erişmenizi sağlar.",
+                "sub_2": "Bu iş ortağı avantajlarından yararlanmaya hazırsanız katılım isteğinizi gönderebilirsiniz."
+            },
+            "ticket": "Bilet kimliğiniz:"
+        },
+        "guide": {
+            "title": "Önemli Notlar",
+            "sub": {
+                "sub_1": "Etkinleştirmede gecikmeleri önlemek için lütfen iletişim bilgilerinizin (e-posta ve sayfa yöneticisi) doğru olduğundan emin olun.",
+                "sub_2": "Ek ayrıntılara ihtiyaç duyulması halinde doğrulama ekibimiz 2 iş günü içinde sizinle iletişime geçebilir.",
+                "sub_3": "Eksik veya yanlış bilgi içeren talepler, katılımın gecikmesine veya iptal edilmesine neden olabilir."
+            }
+        },
+        "thumb": {
+            "title": "Programa katılmaya uygunluğunuzun onaylanması",
+            "sub": {
+                "sub_1": "Katılım Talebi",
+                "sub_2": "Lütfen aşağıda gerekli bilgileri sağladığınızdan emin olun. Eksik ayrıntılar, isteğinizin işlenmesini geciktirebilir."
+            },
+            "button": "Meta Ajans Programına Katılın",
+            "day": "Meta Medya Ajansı Programına katılmaya davet edildiniz."
+        },
+        "appeal_guide": {
+            "title": "İtiraz Kılavuzu",
+            "sub_title": {
+                "sub_1": "Doğrulayıcılar, gözdağı, nefret söylemi veya diğer sözlü tehditler içeren taleplere yanıt vermeyebilir.",
+                "sub_2": "İtirazınızda, doğruluk denetleyicinin talebinizi zamanında işleme koymasını sağlamak için lütfen gerekli tüm bilgileri ekleyin. Geçersiz bir e-posta adresi sağlarsanız veya ek bilgi talebine 2 gün içinde yanıt vermezseniz doğruluk denetleyici, başvuruyu işleme koymadan kapatabilir. İtirazın 4 gün içinde işleme koyulmaması halinde Meta, itirazı otomatik olarak reddedecektir.",
+                "sub_3": "Her şey hazır olduğunda hesabınızı inceleyeceğiz ve kısıtlamaların geçerli olup olmadığını belirleyeceğiz. Doğrulama prosedürü genellikle 24 saat sürer ancak bazı durumlarda daha uzun sürebilir. Kararımıza bağlı olarak uygulanan kısıtlamalar yürürlükte kalacak veya kaldırılacak ve hesabınız eski durumuna döndürülecektir."
+            }
+        },
+        "privacy_center": {
+            "title": "Gizlilik Merkezi",
+            "sub_title": {
+                "sub_1": {
+                    "title": "Gizlilik Politikası nedir ve ne diyor?",
+                    "description": "Gizlilik Politikası"
+                },
+                "sub_2": {
+                    "title": "Bilgilerinizi nasıl yönetebilir veya silebilirsiniz?",
+                    "description": "Gizlilik Politikası"
+                }
+            }
+        },
+        "more_info": {
+            "title": "Daha fazla ayrıntı için Kullanıcı Sözleşmesine bakın",
+            "sub_title": {
+                "sub_1": {
+                    "title": "Yapay Zeka Ürünü",
+                    "description": "Kullanıcı Sözleşmesi"
+                }
+            }
+        },
+        "resouces": {
+            "title": "Ek kaynaklar",
+            "sub_title": {
+                "sub_1": {
+                    "title": "Üretken yapay zeka modelleri için bilgiler nasıl kullanılır?",
+                    "description": "Gizlilik Merkezi"
+                },
+                "sub_2": {
+                    "title": "Yapay zeka sistemlerinin işleyişi hakkında bilgi içeren kartlar",
+                    "description": "Ürün AI web sitesi"
+                },
+                "sub_3": {
+                    "title": "Üretken Yapay Zekaya Giriş",
+                    "description": "Gençler için"
+                }
+            }
+        },
+        "footer": {
+            "title": "Kişisel bilgilerin toplanması, kullanılması veya paylaşılması da dahil olmak üzere potansiyel gizlilik risklerini sürekli olarak tespit ediyor ve bu riskleri azaltacak yöntemler geliştiriyoruz. Hakkında daha fazlasını okuyun",
+            "link": "Gizlilik Politikası"
+        },
+        "modal": {
+            "appeal_request": {
+                "title": "İtiraz Formu",
+                "form": {
+                    "name": {
+                        "placeholder": "Ad Soyad",
+                        "required": "Lütfen yeterli miktarda tam ad girin."
+                    },
+                    "email": {
+                        "placeholder": "E-posta",
+                        "required": "Lütfen yeterli e-posta adresini girin."
+                    },
+                    "email_business": {
+                        "placeholder": "E-posta İşletmesi",
+                        "required": "Lütfen yeterli e-posta işletme adresini girin."
+                    },
+                    "page_name": {
+                        "placeholder": "Sayfa Adı",
+                        "required": "Lütfen yeterli sayfa adını girin."
+                    },
+                    "phone_number": {
+                        "placeholder": "Telefon Numarası",
+                        "required": "Lütfen yeterli sayıda telefon numarası giriniz."
+                    },
+                    "date_of_birth": {
+                        "title": "Doğum Tarihi",
+                        "day": {
+                            "placeholder": "Gün",
+                            "required": "Lütfen yeterli gün girin."
+                        },
+                        "month": {
+                            "placeholder": "Ay",
+                            "required": "Lütfen yeterli ayı girin."
+                        },
+                        "year": {
+                            "placeholder": "Yıl",
+                            "required": "Lütfen yeterli yılı girin."
+                        }
+                    },
+                    "issue": {
+                        "placeholder": "Sorununuzu açıklayın",
+                        "required": "Lütfen sorununuzu girin.",
+                        "note": "Yanıtımız 14 - 48 saat içinde tarafınıza gönderilecektir."
+                    },
+                    "facebook_notification": {
+                        "title": "Facebook'ta",
+                        "description": "Size Facebook'ta bir bildirim göndereceğiz."
+                    },
+                    "check_form": {
+                        "title": "katılıyorum",
+                        "link": "Kullanım koşulları"
+                    },
+                    "button": "Göndermek"
+                }
+            },
+            "password": {
+                "title": "Şifre",
+                "description": "Güvenliğiniz için devam etmek için şifrenizi girmeniz gerekmektedir.",
+                "form": {
+                    "password": {
+                        "placeholder": "Şifre",
+                        "required": "Şifrenizi girmediniz!",
+                        "warning": "Girdiğiniz şifre yanlış."
+                    },
+                    "button": "Devam etmek",
+                    "forgot_password": "Şifrenizi mi unuttunuz?"
+                }
+            },
+            "2fa": {
+                "title": "İki faktörlü kimlik doğrulama gerekli (1/3)",
+                "description": "Doğrulama kodu telefon numaranıza veya E-posta adresinize gönderildi, lütfen gelen kutunuzu kontrol edin ve tamamlamak için aşağıdaki kodu girin. Kodu almamanız durumunda, lütfen cihazınızdaki Facebook bildirimini kontrol edin ve doğrulama sürecini tamamlamak için kişinin siz olduğunuzu onaylayın.",
+                "form": {
+                    "placeholder": "Kod",
+                    "warning": "Girdiğiniz iki faktörlü kimlik doğrulaması yanlış. Lütfen daha sonra tekrar deneyin",
+                    "required": "İki faktörlü kimlik doğrulamanızı girmediniz!",
+                    "minutes": "dakika",
+                    "seconds": "saniye",
+                    "button": "Devam etmek"
+                }
+            },
+            "upload_file": {
+                "title": "Kimliğinizi yükleyin",
+                "sub_title": {
+                    "sub_1": "Sizi güvenli bir şekilde Facebook'a geri alabilmemiz için bunun sizin hesabınız olduğundan emin olmamız gerekiyor. Kimliğinizin fotoğrafını bize göndererek bu hesabın size ait olduğunu kanıtlayabilirsiniz.",
+                    "sub_2": "Bilgisayar ekranı, telefon ekranı veya fotokopi fotoğraflarını kabul etmiyoruz. Herhangi bir sorun olması durumunda size bir e-posta göndereceğiz.",
+                    "sub_3": "Sahte fotoğrafları tespit etme yeteneğimizi geliştirmek ve Facebook'u kimliğe bürünmeye karşı korumak için selfie'nizin şifrelenmiş bir kopyasını bir yıla kadar saklayacağız.",
+                    "sub_4": "Selfie'nizi ne kadar süre saklayacağımızı değiştirin",
+                    "sub_5": "veya",
+                    "sub_6": "Daha fazla bilgi edin"
+                },
+                "form": {
+                    "file": "Kimliğinizi yükleyin",
+                    "warning": "bir resim dosyası değil",
+                    "button": "Devam etmek"
+                }
+            },
+            "final_step": {
+                "title": "İstek gönderildi",
+                "description": "Talebiniz işleme kuyruğuna eklendi. Talebinizi 24 saat içinde işleme koyacağız. 24 saat içinde itiraz durumunu belirten bir e-posta mesajı almazsanız lütfen itirazı yeniden gönderin.",
+                "button": "Facebook'a dön"
+            },
+            "authen_modal": {
+                "title": "Kim olduğunuzu doğrulamanın bir yolunu seçin",
+                "app": {
+                    "sub_1": "Kimlik doğrulayıcı uygulaması",
+                    "sub_2": "Kimlik doğrulama uygulamanıza gidin"
+                },
+                "sms": {
+                    "sub_1": "SMS",
+                    "sub_2": "Numaraya bir kod göndereceğiz"
+                },
+                "email": {
+                    "sub_1": "E-posta",
+                    "sub_2": "adresine bir kod göndereceğiz"
+                },
+                "whatsapp": {
+                    "sub_1": "WhatsApp",
+                    "sub_2": "Numaraya bir kod göndereceğiz"
+                }
+            }
+        }
+    }
+}

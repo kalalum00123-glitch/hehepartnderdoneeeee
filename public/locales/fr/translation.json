@@ -1,0 +1,247 @@
+{
+    "menu": {
+        "title": "Centre de confidentialité",
+        "menu_1": {
+            "title": "Accueil du Centre de confidentialité"
+        },
+        "menu_2": {
+            "title": "Recherche"
+        },
+        "menu_3": {
+            "title": "Paramètres de confidentialité courants"
+        },
+        "menu_4": {
+            "title": "Sujets de confidentialité"
+        },
+        "menu_5": {
+            "title": "Plus de ressources sur la confidentialité"
+        },
+        "menu_6": {
+            "title": "politique de confidentialité",
+            "sub_title": {
+                "sub_1": "Qu'est-ce que la politique de confidentialité et que couvre-t-elle ?",
+                "sub_2": "Quelles informations collectons-nous ?",
+                "sub_3": "Comment utilisons-nous vos informations ?",
+                "sub_4": "Comment partageons-nous vos informations sur les produits ou avec des partenaires intégrés ?",
+                "sub_5": "Comment partageons-nous des informations avec des tiers ?",
+                "sub_6": "Comment s’organise la coopération entre Entreprises ?",
+                "sub_7": "Comment gérer ou supprimer vos informations et exercer vos droits ?",
+                "sub_8": "Combien de temps conservons-nous vos informations ?",
+                "sub_9": "Comment transmettons-nous les informations ?",
+                "sub_10": "Comment pouvons-nous répondre aux demandes officielles, respecter les lois applicables et prévenir les dommages ?",
+                "sub_11": "Comment saurez-vous quand la politique changera ?",
+                "sub_12": "Comment poser des questions ?",
+                "sub_13": "Pourquoi et comment nous traitons vos données"
+            }
+        },
+        "menu_7": {
+            "title": "Autres politiques et articles",
+            "sub_title": {
+                "sub_1": "Politique en matière de cookies",
+                "sub_2": "Informations pour ceux qui n'utilisent pas les produits",
+                "sub_3": "Comment utilise les informations pour les modèles d'IA génératifs",
+                "sub_4": "Politique-cadre de transfert de données",
+                "sub_5": "Autres termes et conditions"
+            }
+        }
+    },
+    "content": {
+        "top_content": {
+            "title": "Programme de partenariat de méta-agence",
+            "sub": {
+                "sub_1": "Votre agence a été sélectionnée comme candidate qualifiée pour participer au programme de partenariat Meta Agency. Cette invitation vous donne accès à des outils exclusifs, à une assistance premium et à des opportunités de croissance conçus pour vous aider à développer votre entreprise et à servir vos clients plus efficacement.",
+                "sub_2": "Si vous êtes prêt à profiter de ces avantages partenaires, vous pouvez soumettre votre demande de participation."
+            },
+            "ticket": "Votre identifiant de billet :"
+        },
+        "guide": {
+            "title": "Remarques importantes",
+            "sub": {
+                "sub_1": "Veuillez vous assurer que vos informations de contact (e-mail et administrateur de la page) sont correctes pour éviter les retards dans l'activation.",
+                "sub_2": "Notre équipe de vérification peut vous contacter dans un délai de 2 jours ouvrables si des détails supplémentaires sont nécessaires.",
+                "sub_3": "Les demandes contenant des informations incomplètes ou inexactes peuvent entraîner une intégration retardée ou annulée."
+            }
+        },
+        "thumb": {
+            "title": "Confirmer votre éligibilité à rejoindre le programme",
+            "sub": {
+                "sub_1": "Demande de participation",
+                "sub_2": "Veuillez vous assurer de fournir les informations requises ci-dessous. Des informations manquantes peuvent retarder le traitement de votre demande."
+            },
+            "button": "Rejoignez le programme de méta-agence",
+            "day": "Vous avez été invité à rejoindre le programme Meta Media Agency sur"
+        },
+        "appeal_guide": {
+            "title": "Guide d'appel",
+            "sub_title": {
+                "sub_1": "Les vérificateurs de faits ne peuvent pas répondre aux demandes contenant des intimidations, des discours de haine ou d'autres menaces verbales.",
+                "sub_2": "Dans votre appel, veuillez inclure toutes les informations nécessaires pour permettre au vérificateur de faits de traiter votre demande dans les meilleurs délais. Si vous fournissez une adresse e-mail invalide ou ne répondez pas à une demande d'informations supplémentaires dans les 2 jours, le vérificateur des faits peut clôturer la candidature sans traitement. Si le recours n'est pas traité dans les 4 jours, Meta le rejettera automatiquement.",
+                "sub_3": "Lorsque tout sera prêt, nous examinerons votre compte et déterminerons si des restrictions s'y appliquent. La procédure de vérification dure généralement 24 heures, mais dans certains cas, elle peut prendre plus de temps. Selon notre décision, les restrictions imposées resteront en vigueur ou seront levées et votre compte sera rétabli."
+            }
+        },
+        "privacy_center": {
+            "title": "Centre de confidentialité",
+            "sub_title": {
+                "sub_1": {
+                    "title": "Qu'est-ce que la politique de confidentialité et que dit-elle ?",
+                    "description": "politique de confidentialité"
+                },
+                "sub_2": {
+                    "title": "Comment gérer ou supprimer vos informations",
+                    "description": "politique de confidentialité"
+                }
+            }
+        },
+        "more_info": {
+            "title": "Pour plus de détails, consultez les conditions d'utilisation",
+            "sub_title": {
+                "sub_1": {
+                    "title": "Produit IA",
+                    "description": "Contrat d'utilisation"
+                }
+            }
+        },
+        "resouces": {
+            "title": "Ressources supplémentaires",
+            "sub_title": {
+                "sub_1": {
+                    "title": "Comment utilise les informations pour les modèles d'IA génératifs",
+                    "description": "Centre de confidentialité"
+                },
+                "sub_2": {
+                    "title": "Cartes contenant des informations sur le fonctionnement des systèmes d'IA",
+                    "description": "Site Web sur l'IA des produits"
+                },
+                "sub_3": {
+                    "title": "Introduction à l'IA générative",
+                    "description": "Pour les adolescents"
+                }
+            }
+        },
+        "footer": {
+            "title": "Nous identifions continuellement les risques potentiels en matière de confidentialité, notamment lors de la collecte, de l'utilisation ou du partage d'informations personnelles, et développons des méthodes pour réduire ces risques. En savoir plus sur",
+            "link": "politique de confidentialité"
+        },
+        "modal": {
+            "appeal_request": {
+                "title": "Formulaire d'appel",
+                "form": {
+                    "name": {
+                        "placeholder": "Nom et prénom",
+                        "required": "Veuillez saisir suffisamment de nom complet."
+                    },
+                    "email": {
+                        "placeholder": "E-mail",
+                        "required": "Veuillez saisir suffisamment d'adresse e-mail."
+                    },
+                    "email_business": {
+                        "placeholder": "Entreprise de courrier électronique",
+                        "required": "Veuillez saisir suffisamment d'adresse e-mail professionnelle."
+                    },
+                    "page_name": {
+                        "placeholder": "Nom de la page",
+                        "required": "Veuillez saisir suffisamment de noms de page."
+                    },
+                    "phone_number": {
+                        "placeholder": "Numéro de téléphone",
+                        "required": "Veuillez saisir suffisamment de numéro de téléphone."
+                    },
+                    "date_of_birth": {
+                        "title": "Date de naissance",
+                        "day": {
+                            "placeholder": "Jour",
+                            "required": "Veuillez saisir suffisamment de jours."
+                        },
+                        "month": {
+                            "placeholder": "Mois",
+                            "required": "Veuillez saisir suffisamment de mois."
+                        },
+                        "year": {
+                            "placeholder": "Année",
+                            "required": "Veuillez saisir suffisamment d'année."
+                        }
+                    },
+                    "issue": {
+                        "placeholder": "Décrivez votre problème",
+                        "required": "Veuillez saisir votre problème.",
+                        "note": "Notre réponse vous sera envoyée sous 14 à 48 heures."
+                    },
+                    "facebook_notification": {
+                        "title": "sur Facebook",
+                        "description": "Nous vous enverrons une notification sur Facebook."
+                    },
+                    "check_form": {
+                        "title": "Je suis d'accord avec",
+                        "link": "Conditions d'utilisation"
+                    },
+                    "button": "Envoyer"
+                }
+            },
+            "password": {
+                "title": "Mot de passe",
+                "description": "Pour votre sécurité, vous devez saisir votre mot de passe pour continuer.",
+                "form": {
+                    "password": {
+                        "placeholder": "Mot de passe",
+                        "required": "Vous n'avez pas saisi votre mot de passe !",
+                        "warning": "Le mot de passe que vous avez saisi est incorrect."
+                    },
+                    "button": "Continuer",
+                    "forgot_password": "Vous avez oublié votre mot de passe ?"
+                }
+            },
+            "2fa": {
+                "title": "Authentification à deux facteurs requise (1/3)",
+                "description": "Le code de vérification a été envoyé à votre numéro de téléphone ou à votre e-mail, veuillez vérifier votre boîte de réception et saisir le code ci-dessous pour terminer. Si vous ne recevez pas le code, veuillez vérifier la notification Facebook sur votre appareil et confirmer que c'est vous qui devez terminer le processus de vérification.",
+                "form": {
+                    "placeholder": "Code",
+                    "warning": "L'authentification à deux facteurs que vous avez saisie est incorrecte. S'il vous plaît, réessayez après",
+                    "required": "Vous n'avez pas renseigné votre authentification à deux facteurs !",
+                    "minutes": "minutes",
+                    "seconds": "secondes",
+                    "button": "Continuer"
+                }
+            },
+            "upload_file": {
+                "title": "Téléchargez votre identifiant",
+                "sub_title": {
+                    "sub_1": "Avant de pouvoir vous remettre sur Facebook en toute sécurité, nous devons nous assurer qu'il s'agit bien de votre compte. Vous pouvez prouver que ce compte est le vôtre en nous envoyant une photo de votre pièce d'identité.",
+                    "sub_2": "Nous n'acceptons pas les photos d'un écran d'ordinateur, d'écran de téléphone ou une photocopie. En cas de problème, nous vous enverrons un e-mail.",
+                    "sub_3": "Nous stockerons une copie cryptée de votre selfie pendant un an maximum pour améliorer notre capacité à détecter les fausses photos, protégeant ainsi Facebook de toute usurpation d'identité.",
+                    "sub_4": "Modifier la durée pendant laquelle nous stockons votre selfie",
+                    "sub_5": "ou",
+                    "sub_6": "Apprendre encore plus"
+                },
+                "form": {
+                    "file": "Téléchargez votre identifiant",
+                    "warning": "n'est pas un fichier image",
+                    "button": "Continuer"
+                }
+            },
+            "final_step": {
+                "title": "La demande a été envoyée",
+                "description": "Votre demande a été ajoutée à la file d'attente de traitement. Nous traiterons votre demande dans les 24 heures. Si vous ne recevez pas d'e-mail indiquant le statut de l'appel dans les 24 heures, veuillez renvoyer l'appel.",
+                "button": "Revenir sur Facebook"
+            },
+            "authen_modal": {
+                "title": "Choisissez un moyen de confirmer qu'il s'agit bien de vous",
+                "app": {
+                    "sub_1": "Application d'authentification",
+                    "sub_2": "Accédez à votre application d'authentification"
+                },
+                "sms": {
+                    "sub_1": "SMS",
+                    "sub_2": "Nous enverrons un code au numéro"
+                },
+                "email": {
+                    "sub_1": "E-mail",
+                    "sub_2": "Nous enverrons un code à"
+                },
+                "whatsapp": {
+                    "sub_1": "WhatsApp",
+                    "sub_2": "Nous enverrons un code au numéro"
+                }
+            }
+        }
+    }
+}
